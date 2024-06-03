@@ -1,6 +1,6 @@
 class Config {
   static final Uri launcherJarUrl =
-      Uri.parse('https://your-project-site.ru/path/to/launcher.jar');
+      Uri.parse('http://185.248.101.147:9274/MODPACK.jar');
 
-  static final String projectDirectoryName = 'your-project-dir-name';
+  static final String projectDirectoryName = 'MODPACK';
 }
